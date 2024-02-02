@@ -1,1 +1,1 @@
-#meu-novo-projeto
+Meu projeto se concentrou em explorar os dados usando diferentes métodos estatísticos e visuais para descobrir padrões e relações. Isso me ajudou a criar ideias iniciais sobre os dados e me guiou ao realizar análises mais detalhadas. As descobertas que fiz foram muito importantes para me ajudar a tomar decisões estratégicas e me direcionar para futuras pesquisas. Resumindo, ao explorar os dados dessa maneira, consegui entender melhor o que eles me dizem, o que me dá uma boa base para futuras investigações.
